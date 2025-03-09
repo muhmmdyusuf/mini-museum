@@ -20,3 +20,15 @@ body {
   font-size: 1.5rem;
   font-weight: 500;
 }
+
+#title-head {
+  font-weight: 100;
+  font-size: 4rem;
+}
+
+@media (max-width: 1200px) {
+  #title-head h1{
+    font-weight: 500;
+    font-size: 3rem;
+  }
+}
