@@ -26,6 +26,22 @@ body {
   font-size: 4rem;
 }
 
+.blurb h2{
+  font-weight: 300;
+  font-size: 2.5rem;
+}
+
+.blurb p{
+  font-weight: 300;
+  font-size: 1.125rem;
+  line-height: 2;
+}
+
+.content{
+  margin-top: 100px;
+  margin-bottom: 100px;
+}
+
 @media (max-width: 1200px) {
   #title-head h1{
     font-weight: 500;
